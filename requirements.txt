@@ -2,4 +2,4 @@ transformers
 safetensors
 accelerate
 gradio
-git+
+git+https://github.com/huggingface/diffusers
