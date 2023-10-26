@@ -1,0 +1,5 @@
+transformers
+safetensors
+accelerate
+gradio
+git+
